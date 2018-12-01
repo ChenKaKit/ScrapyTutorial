@@ -1,2 +1,2 @@
-# ScrapyTutorial
-Scrapy Tutorial
+#mongodb连接
+－setting
