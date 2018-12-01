@@ -1,3 +1,2 @@
-#mongodb连接
-
-－setting
+mongodb连接
+setting
